@@ -19,4 +19,11 @@ Elige una actividad (correr, bicicleta, saltar la cuerda, HIIT, etc.).
 Mantén una intensidad moderada o alta según tu nivel.
 Enfriamiento (5-10 min) 🔄
 Reduce la intensidad poco a poco y estira para evitar lesiones.
+# Concejos y precauiciones
+⚠️ No hacer calentamiento o estiramientos previos.
+⚠️ Excederse en la intensidad sin estar preparado.
+⚠️ No darle descanso al cuerpo.
+⚠️ Usar calzado inadecuado y lastimarse.
+⚠️ No alimentarse bien antes o después del ejercicio.
+
 
