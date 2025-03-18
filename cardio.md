@@ -11,4 +11,12 @@ Reduce el estrés y mejora el estado de ánimo 😊
 Libera endorfinas, reduciendo ansiedad y depresión.
 Regula la presión arterial y el colesterol 🩺
 Disminuye el riesgo de enfermedades cardiovasculares.
+# Instrucciones para hacer cardio correctamente
+Calentamiento (5-10 min) 🏃‍♂️
+Movimientos articulares, estiramientos dinámicos o caminata ligera.
+Ejercicio principal (20-45 min) 💪
+Elige una actividad (correr, bicicleta, saltar la cuerda, HIIT, etc.).
+Mantén una intensidad moderada o alta según tu nivel.
+Enfriamiento (5-10 min) 🔄
+Reduce la intensidad poco a poco y estira para evitar lesiones.
 
