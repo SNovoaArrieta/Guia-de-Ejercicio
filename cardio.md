@@ -1,1 +1,2 @@
 # Cardio para principiantes
+El ejercicio cardiovascular, o simplemente cardio, es cualquier actividad física que aumenta la frecuencia cardíaca y mejora la resistencia del sistema cardiovascular. Ejemplos incluyen correr, nadar, saltar la cuerda, montar bicicleta y bailar
