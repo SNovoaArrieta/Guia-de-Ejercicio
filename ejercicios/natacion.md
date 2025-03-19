@@ -12,3 +12,7 @@ Mejora la capacidad pulmonar.
 Calienta con movimientos articulares fuera del agua.
 Nada durante al menos 30 minutos combinando diferentes estilos.
 Finaliza con ejercicios de relajación en el agua y estiramientos fuera de ella.
+
+## Consejos
+Mantén una técnica adecuada para evitar lesiones.
+Usa gafas y gorro de natación para mayor comodidad.
