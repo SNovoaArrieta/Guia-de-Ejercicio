@@ -7,3 +7,8 @@ Pilates es un método de entrenamiento que se centra en fortalecer el núcleo, m
 Fortalece el core y mejora la estabilidad.
 Aumenta la flexibilidad y el equilibrio.
 Reduce el riesgo de lesiones.
+
+## Instrucciones
+Comienza con un calentamiento suave.
+Realiza ejercicios en colchoneta o con máquinas específicas durante 30-45 minutos.
+Termina con estiramientos y ejercicios de respiración.
