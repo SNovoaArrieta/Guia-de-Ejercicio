@@ -12,3 +12,7 @@ Alivia tensiones musculares.
 Comienza con un calentamiento ligero.
 Realiza estiramientos dinámicos y estáticos, manteniendo cada posición durante al menos 20-30 segundos.
 Finaliza con respiraciones profundas para relajar el cuerpo.
+
+## Consejos
+No rebotes en los estiramientos, hazlos de forma controlada.
+Respira profundamente para ayudar a la relajación muscular.
