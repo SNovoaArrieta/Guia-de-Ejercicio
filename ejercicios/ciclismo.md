@@ -12,3 +12,7 @@ Reduce el impacto en las articulaciones.
 Comienza con un pedaleo suave durante 5-10 minutos.
 Aumenta la intensidad manteniendo un ritmo constante durante al menos 30 minutos.
 Termina con un pedaleo suave y estiramientos.
+
+## Consejos
+Ajusta la bicicleta para una postura cómoda y segura.
+Mantén una hidratación adecuada.
