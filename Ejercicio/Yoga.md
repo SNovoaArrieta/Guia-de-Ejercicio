@@ -12,3 +12,7 @@ Fortalece los músculos y articulaciones.
 Inicia con respiraciones profundas y movimientos suaves.
 Realiza una serie de posturas como el perro boca abajo, la cobra y el guerrero durante 30-60 minutos.
 Finaliza con posturas de relajación como savasana.
+
+## Consejos
+Mantén la respiración constante y controlada.
+Escoge una rutina adecuada a tu nivel de experiencia
