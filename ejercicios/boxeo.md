@@ -12,3 +12,7 @@ Aumenta la fuerza y la agilidad.
 Realiza un calentamiento con saltos de cuerda y movilidad articular.
 Practica golpes, combinaciones y trabajo de sombra durante al menos 30 minutos.
 Termina con estiramientos y ejercicios de relajación.
+
+## Consejos
+Usa vendajes y guantes adecuados.
+Controla la técnica para evitar lesiones en las muñecas.
