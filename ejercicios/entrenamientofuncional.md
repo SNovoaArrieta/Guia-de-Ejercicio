@@ -7,3 +7,8 @@ El entrenamiento funcional se enfoca en mejorar movimientos naturales del cuerpo
 Mejora la coordinación y el equilibrio.
 Aumenta la fuerza funcional para actividades diarias.
 Reduce el riesgo de lesiones.
+
+## Instrucciones
+Comienza con un calentamiento de 5-10 minutos.
+Realiza ejercicios como sentadillas, burpees, planchas y levantamientos con pesas durante 30-40 minutos.
+Termina con estiramientos y ejercicios de relajación.
