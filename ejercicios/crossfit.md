@@ -12,3 +12,7 @@ Favorece la quema de grasa y el desarrollo muscular.
 Comienza con un calentamiento dinámico.
 Realiza un circuito de ejercicios como sentadillas, levantamientos y burpees con intervalos de alta intensidad.
 Finaliza con estiramientos y movilidad.
+
+## Consejos
+Escoge una carga y una intensidad acorde a tu nivel.
+Prioriza la técnica antes de aumentar la velocidad o el peso.
